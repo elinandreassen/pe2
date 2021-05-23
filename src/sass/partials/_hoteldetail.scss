@@ -1,0 +1,14 @@
+.hotel-jumbotron {
+    margin-top: 80px;
+
+    .hotel-info {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
+
+.hotel-image {
+    max-width: 100%;
+    height: auto;
+}

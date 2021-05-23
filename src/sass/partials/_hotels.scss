@@ -1,0 +1,35 @@
+.hotelpage {
+    margin-bottom: 20px;
+}
+
+
+.hotel-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 25px;
+    row-gap: 25px;
+    justify-content: center;
+}
+
+
+.hotel-card {
+    border-radius: 20px;
+    background-color: white;
+
+    .hotel-image {
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+}
+
+.info-pill {
+    margin-right: 5px;
+    background-color: #99A697 !important;
+}
+
+.jumbotron {
+    max-width: 1000px !important;
+    margin: 0 auto;
+    border-radius: 20px;
+}

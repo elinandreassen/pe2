@@ -1,0 +1,21 @@
+.cta-btn {
+    background-color: #DCC5A9;
+    margin-top: 20px;
+    padding: 10px 50px;
+
+    .cta-link {
+        color: #000;
+    }
+}
+
+.btn {
+    background-color: #BF6565;
+    border-color: #BF6565; 
+    margin-top: 10px;
+
+    &:hover {
+        background-color: #BF6563;
+        border-color: #BF6565; 
+    }
+}
+
